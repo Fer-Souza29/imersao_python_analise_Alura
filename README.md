@@ -1,3 +1,4 @@
-# imersao_python_analise_Alura
-Bootcamp de análise de dados com bibliotecas Python e IA 
-Projeto feito em 5 dias, com foco em análise de dados com planilhas e posteriormente análise de dados com Python usando as bibliotecas pandas e plotly.express para análise e visualização de dados.
+Bootcamp de Análise de Dados com Python e IA - Alura
+Este repositório é parte de um projeto desenvolvido durante um bootcamp de análise de dados oferecido pela Alura. O projeto foi concluído em 5 dias e teve como objetivo principal a análise de dados utilizando planilhas e, posteriormente, a análise de dados com Python, utilizando as bibliotecas pandas e plotly.express para manipulação e visualização dos dados e uso de IA's como chatgpt para auxílio.
+
+Durante as aulas 1 e 2, foram abordados conceitos relacionados à criação e importação de planilhas de dados. Nas aulas 3 a 5, o foco foi na análise e visualização desses dados utilizando a linguagem de programação Python e as bibliotecas mencionadas.
